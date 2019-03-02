@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Главная страница -->
+<!-- SUBTITLE: Очень главная страница -->
 
 # Hello, Zoya!
 ![](https://memegenerator.net/img/instances/71547427/hello.jpg)
